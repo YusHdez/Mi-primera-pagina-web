@@ -12,6 +12,7 @@ body {
 main {
     margin: 25px;
     font-size: 30px;
+    font-family: 'Times New Roman';
     line-height: 1.6;
     .img-tamaño{
         max-width: 100px;
