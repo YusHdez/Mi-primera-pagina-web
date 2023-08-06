@@ -1,0 +1,21 @@
+/* Estilos para el encabezado */
+header {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 0,5rem;
+}
+body {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/012/985/632/non_2x/soft-gradient-blurry-backgrounds-for-website-design-or-business-vector.jpg);
+}
+/* Estilos para el párrafo */
+main {
+    margin: 25px;
+    font-size: 30px;
+    line-height: 1.6;
+    .img-tamaño{
+        max-width: 200px;
+        height: auto;
+    } 
+
+}
